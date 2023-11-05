@@ -321,12 +321,6 @@ footer a:hover {
         margin-right: 25%;
     }
 
-    .contact {
-        width: 70%;
-        margin-left: 15%;
-        margin-right: 15%;
-    }
-
     .contact form {
         padding-left: 6%;
     }
@@ -340,6 +334,12 @@ footer a:hover {
         flex-direction: row;
         justify-content: center;
         text-align: center;
+    }
+    
+    .container {
+        margin-left: 25%;
+        margin-right: 25%;
+        max-width: 50%;
     }
 
     .content hr {
